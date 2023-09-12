@@ -1,0 +1,13 @@
+[
+    {
+        "name": "ftpupload.net",
+        "host": "185.27.134.11",
+        "port": 21,
+        "type": "ftp",
+        "username": "epiz_32235325",
+        "password": "8OzcKuOaji",
+        "path": "/",
+        "autosave": true,
+        "confirm": true
+    }
+]
